@@ -1,0 +1,22 @@
+.heading
+{
+	color:blue; 
+	font-size: 40px;
+}
+
+.description
+{
+	font-size: 20px;
+	border-style: dotted;
+	border-left-style: solid;
+	border-color: black;
+	background-color: #FFA500;
+	padding: 10px;
+}
+
+.image
+{
+	width: 200px;
+	position: relative;
+	left: 20px;
+}
